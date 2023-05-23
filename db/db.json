@@ -1,0 +1,74 @@
+{
+  "resturent": [
+    {
+      "id": 1,
+      "name": "pizz hut",
+      "Address": "Noida",
+      "rating": "4.0",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Chay sutta bar",
+      "Address": "Noida 62",
+      "rating": "4.5",
+      "email": "chaysuttabar@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "cafecofyday",
+      "Address": "Delhi",
+      "rating": "4.0",
+      "email": "cafecoffyday@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Firangi",
+      "Address": "Deoghar",
+      "rating": "3.0",
+      "email": "firangi@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Delhi restuarent",
+      "Address": "Jaipur",
+      "rating": "4.5",
+      "email": "ds@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "D restuarent",
+      "Address": "Jaipur",
+      "rating": "4.5",
+      "email": "d@gmail.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@gmail.com",
+      "rating": "4.5",
+      "Address": "patna",
+      "id": 7
+    },
+    {
+      "name": "radha  Rani ",
+      "email": "radharani@gmail.com",
+      "rating": "5",
+      "Address": "Deoghar",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "D restuarent",
+      "Address": "Jaipur",
+      "rating": "4.5",
+      "email": "d@gmail.com"
+    },
+    {
+      "name": "Ravindra Restro",
+      "email": "rr@gmail.com",
+      "rating": "4.5",
+      "Address": "Cg",
+      "id": 10
+    }
+  ]
+}
